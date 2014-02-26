@@ -17,16 +17,16 @@ How to use:
 	The first device trying to connect to port:7777 would take up the port.
 	And you need to use command in step 2(modifying conresponding parameters) to sync in inverse direction.
 
-#The first step to launch two emulators.
+###The first step to launch two emulators.
 ![Image Alt](/Demo/twoemulator.png)
 
-#The second step to setup emulator to listen to port 7777 of the host
+###The second step to setup emulator to listen to port 7777 of the host
 ![Image Alt](/Demo/Command.png)
 
-#Then you can input any URL that contains images. The app will parse the url and download all the images in an asynchronized way.
+###Then you can input any URL that contains images. The app will parse the url and download all the images in an asynchronized way.
 ![Image Alt](/Demo/Downloads.png)
 
-#When you click the setup synchronization button. One emulator will connect another one to sychronize the content in their content provider.
+###When you click the setup synchronization button. One emulator will connect another one to sychronize the content in their content provider.
 ![Image Alt](/Demo/Perform.png)
 
 
